@@ -1,1 +1,1 @@
-# STM32-Lightning-System
+# STM32-Lightning-Control-System
